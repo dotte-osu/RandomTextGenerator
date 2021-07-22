@@ -1,5 +1,3 @@
-"# RandomTextGenerator" 
-
 # Random Text Generator API
 
 ## About
