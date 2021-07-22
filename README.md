@@ -1,7 +1,7 @@
 # Random Text Generator API
 
 ## About
-A .NET Core  Web.API (C#) that generates a random user account and return it in JSON format.
+A .NET Core  Web.API (C#) that generates a random text and return it in JSON format. The random text is obtained from Wikipedia summay section by hitting their URL: https://en.wikipedia.org/api/rest_v1/page/random/summary 
 
 Request:
 /TextGenerator (GET)
